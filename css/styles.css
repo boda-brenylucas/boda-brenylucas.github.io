@@ -135,6 +135,20 @@ font-weight: 400;
     border-radius: 0 83px 0 0;
 }
 
+.cancion-parent{
+  position: relative;
+}
+
+.cancion-hojas {
+  position: absolute;
+  right: 16px;
+  top: -5px;
+  width: 176px;
+  height: 133px;
+  background: url('../assets/hojas-border-radius.svg') top right no-repeat;
+  background-clip: padding-box;
+}
+
 
 .muted{
     font-size: 13px;
