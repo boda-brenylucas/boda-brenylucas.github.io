@@ -131,6 +131,12 @@ font-weight: 400;
 
 }
 
+.fondo-slider{
+background: rgb(26,86,86);
+background: radial-gradient(circle, rgba(26,86,86,1) 0%, rgba(4,47,47,1) 96%);
+}
+
+
 .cancion{
     border-radius: 0 83px 0 0;
 }
