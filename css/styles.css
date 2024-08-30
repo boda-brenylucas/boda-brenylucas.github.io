@@ -92,7 +92,9 @@
 }
 
 header{
-   background-image: url("assets/flores-1.png");
+   background-image: url("/assets/flores-1.png");
+  background-repeat: no-repeat;
+   background-position: bottom right;
 
 }
 
