@@ -92,7 +92,7 @@
 }
 
 .bg-flores{
-   background-image: url("/assets/flores-1.png");
+   background-image: url("/assets/flores-1.svg");
   background-repeat: no-repeat;
    background-position: bottom right;
 mix-blend-mode: multiply;
