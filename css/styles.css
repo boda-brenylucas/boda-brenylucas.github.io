@@ -91,7 +91,10 @@
   }
 }
 
+header{
+   background-image: url("assets/flores-1.png");
 
+}
 
 ul {
     list-style: none;
