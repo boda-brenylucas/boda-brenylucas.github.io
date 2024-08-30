@@ -96,6 +96,8 @@
   background-repeat: no-repeat;
    background-position: bottom right;
 mix-blend-mode: multiply;
+  width:136px;
+  height:544px;
 }
 
 ul {
